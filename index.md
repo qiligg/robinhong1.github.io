@@ -43,19 +43,22 @@ author_profile: true
 
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #ffffff; line-height: 1.6; font-size: 17px;">
     <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">July 2026:</span> Our paper about Vision-Language Model and Wearable AI accepted by IMWUT/UbiComp 2026. Congratulations to Yize!  
+    </div>
+    <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">June 2026:</span> Invited to serve as Area Chair for ACL Rolling Review 2026 May. 
     </div>
     <div style="margin-bottom: 10px;">
-        <span style="color: #87CEEB; font-weight: bold;">June 2026:</span> Our paper about Embodied AI accepted by ECCV 2026. 
+        <span style="color: #87CEEB; font-weight: bold;">June 2026:</span> Our paper about Embodied AI accepted by ECCV 2026. Congratulations to Zhiyuan!  
     </div>
     <div style="margin-bottom: 10px;">
-        <span style="color: #87CEEB; font-weight: bold;">June 2026:</span> Our paper about the real-world deployment of billion-scale graph accepted by VLDB. 
+        <span style="color: #87CEEB; font-weight: bold;">June 2026:</span> Our paper about the real-world deployment of billion-scale graph accepted by VLDB. Congratulations to Jinquan!
     </div>
     <div style="margin-bottom: 10px;">
-        <span style="color: #87CEEB; font-weight: bold;">May 2026:</span> Our paper about GNSS sensing accepted by TMC. 
+        <span style="color: #87CEEB; font-weight: bold;">May 2026:</span> Our paper about GNSS sensing accepted by TMC. Congratulations to Anlan!
     </div>
     <div style="margin-bottom: 10px;">
-        <span style="color: #87CEEB; font-weight: bold;">May 2026:</span> Our paper about Embodied AI accepted by ACM KDD. 
+        <span style="color: #87CEEB; font-weight: bold;">May 2026:</span> Our paper about Embodied AI accepted by ACM KDD. Congratulations to Zhaotie!
     </div>
     <div style="margin-bottom: 10px;">
     <span style="color: #87CEEB; font-weight: bold;">April 2026:</span>
