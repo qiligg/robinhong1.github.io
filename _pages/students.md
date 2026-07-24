@@ -11,13 +11,16 @@ classes: wide
 
 * Lidan Cao, 2026 Spring
 
+* Rui Feng, 2026 Fall
+
+* Wenshuo Dong, 2026 Fall
+
 ## Visiting Students / Interns / RAs
 
 * Anlan Yu, Peking University
-* Jiahao Shu, University of Science and Technology of China
-* Rui Feng, Wuhan University
 * Yaxuan Li, Harbin Institute of Technology (Shenzhen)
-
+* Zhijie Shen, Jilin University
+* Chen Hu, The University of Edinburgh
 
 ## Alumni
 
@@ -29,4 +32,8 @@ classes: wide
   * Generative AI, human mobility
 * Xintong Li, 2025–2026 Intern, Undergraduate at Renmin University of China, — Next: Ph.D. student at CMU
   * Human-centric AI, human mobility
+* Jiahao Shu, 2025–2026 Intern, Undergraduate from University of Science and Technology of China - Next: Master’s student at CMU
+  * Embodied AI
+* Rui Feng, 2026 Intern, Undergraduate from Wuhan University - Next: Ph.D. student at HKUST(GZ)
+  * Wearable AI, Embodied AI
 
