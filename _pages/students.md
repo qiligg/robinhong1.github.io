@@ -15,6 +15,9 @@ classes: wide
 
 * Wenshuo Dong, 2026 Fall
 
+## Mphil Students
+* Xin Ouyang, 2025 Fall
+
 ## Visiting Students / Interns / RAs
 
 * Anlan Yu, Peking University
