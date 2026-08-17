@@ -43,6 +43,12 @@ author_profile: true
 
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #ffffff; line-height: 1.6; font-size: 17px;">
     <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">August 2026:</span> Our paper about next-token prediction for sensor data pretraining accepted by CIKM 2026. Congratulations to Yize!  
+    </div>
+    <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">August 2026:</span> Our first-year PhD student Rui Feng presented a poster at KDD 2026, Jeju, Korea. Congratulations to Rui!
+    </div>
+    <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">July 2026:</span> Our paper about Vision-Language Model and Wearable AI accepted by IMWUT/UbiComp 2026. Congratulations to Yize!  
     </div>
     <div style="margin-bottom: 10px;">
