@@ -16,6 +16,9 @@ This page summarizes the publications related to Large Language Models (LLMs), E
 <span style="color:Forestgreen;font-weight:bold">[IMWUT/UbiComp'26]</span> *Adapting Pretrained Large Vision Models for Sensor-based Activity Recognition* <br>
 <u>Yize Cai</u>, <u>Rui Feng</u>, Kunlin Cai, Yunhuai Liu, Baoshen Guo, **Zhiqing Hong\*** <br>
 
+<span style="color:Forestgreen;font-weight:bold">[CIKM'26]</span> *Next Token Prediction for Generalizable Human Activity Recognition* <br>
+<u>Yize Cai</u>, <u>Anlan Yu</u>, Baoshen Guo, Yunhuai Liu, **Zhiqing Hong\*** <br>
+
 <span style="color:Forestgreen;font-weight:bold">[KDD'26]</span> *GenHAR: Generalizing Cross-domain Human Activity Recognition via Frequency Attention LLMs* <br>
 **Zhiqing Hong**, Zelong Li, Xiubin Fan, Guang Yang, Baoshen Guo, Haotian Wang, Tian He, Desheng Zhang<be>
 
