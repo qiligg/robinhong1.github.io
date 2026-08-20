@@ -19,14 +19,14 @@ This page summarizes the publications related to Large Language Models (LLMs), E
 <span style="color:Forestgreen;font-weight:bold">[CIKM'26]</span> *Next Token Prediction for Generalizable Human Activity Recognition* <br>
 <u>Yize Cai</u>, <u>Anlan Yu</u>, Baoshen Guo, Yunhuai Liu, **Zhiqing Hong\*** <br>
 
+<span style="color:Forestgreen;font-weight:bold">[VLDB'26]</span> *BiLink: Bidirectional Meta-paths for Link Discovery in Billion-Scale Heterogeneous Graphs* <br>
+<u>Jinquan Hang</u>, **Zhiqing Hong\***, Xinyue Feng, Desheng Zhang, Haotian Wang, and Guang Wang<br>
+
 <span style="color:Forestgreen;font-weight:bold">[KDD'26]</span> *GenHAR: Generalizing Cross-domain Human Activity Recognition via Frequency Attention LLMs* <br>
 **Zhiqing Hong**, Zelong Li, Xiubin Fan, Guang Yang, Baoshen Guo, Haotian Wang, Tian He, Desheng Zhang<be>
 
 <span style="color:royalblue;font-weight:bold">[TMC'26]</span> *UrbanPOI: Updating Urban POIs with Large-scale Crowdsourcing for Location-based Services* <br>
 **Zhiqing Hong**, Baoshen Guo, Wenjun Lyu, Haotian Wang, Yunhuai Liu, Guang Wang, Tian He, and Desheng Zhang<br>
-
-<span style="color:Forestgreen;font-weight:bold">[VLDB'26]</span> *BiLink: Bidirectional Meta-paths for Link Discovery in Billion-Scale Heterogeneous Graphs* <br>
-<u>Jinquan Hang</u>, **Zhiqing Hong\***, Xinyue Feng, Desheng Zhang, Haotian Wang, and Guang Wang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[ICLR'26]</span> *What Do Large Language Models Know About Opinions?* <br>
 <u>Erfan Jahanparast</u>, **Zhiqing Hong**, Serina Chang<br>
