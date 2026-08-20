@@ -22,6 +22,12 @@ This page summarizes the publications related to Large Language Models (LLMs), E
 <span style="color:Forestgreen;font-weight:bold">[VLDB'26]</span> *BiLink: Bidirectional Meta-paths for Link Discovery in Billion-Scale Heterogeneous Graphs* <br>
 <u>Jinquan Hang</u>, **Zhiqing Hong\***, Xinyue Feng, Desheng Zhang, Haotian Wang, and Guang Wang<br>
 
+<span style="color:Forestgreen;font-weight:bold">[UbiComp'26]</span> *LCE: Longitudinal Context Enhancement for Daily Guidance Generation in Personal Health Agents* <br>
+<u>Yize Cai</u>, <u>Chiew Hui Lim</u>, <u>Anlan Yu</u>, Baoshen Guo, **Zhiqing Hong\*** <br>
+
+<span style="color:Forestgreen;font-weight:bold">[UbiComp'26]</span> *Leveraging Vision-Language Knowledge for Generalizable Human Activity Recognition* <br>
+<u>Yize Cai</u>, <u>Anlan Yu</u>, Baoshen Guo, **Zhiqing Hong\*** <br>
+
 <span style="color:Forestgreen;font-weight:bold">[KDD'26]</span> *GenHAR: Generalizing Cross-domain Human Activity Recognition via Frequency Attention LLMs* <br>
 **Zhiqing Hong**, Zelong Li, Xiubin Fan, Guang Yang, Baoshen Guo, Haotian Wang, Tian He, Desheng Zhang<be>
 
