@@ -1,0 +1,103 @@
+---
+title: "Photos"
+permalink: /photos/
+layout: single
+classes: wide
+author_profile: true
+---
+
+<style>
+.photo-event {
+  margin-bottom: 3rem;
+}
+
+.photo-meta {
+  margin-bottom: 1rem;
+}
+
+.photo-date {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #222;
+}
+
+.photo-location {
+  margin-top: 0.2rem;
+  font-size: 0.9rem;
+  color: #777;
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+.photo-grid a {
+  display: block;
+  overflow: hidden;
+  border-radius: 6px;
+}
+
+.photo-grid img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  transition: transform 0.25s ease;
+}
+
+.photo-grid img:hover {
+  transform: scale(1.025);
+}
+
+@media (max-width: 900px) {
+  .photo-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .photo-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+
+<div class="photo-event">
+
+  <div class="photo-meta">
+    <div class="photo-date">August 2026</div>
+    <div class="photo-location">📍 Jeju, Korea</div>
+  </div>
+
+  <div class="photo-grid">
+
+    <a href="{{ '/assets/images/photos/2026-kdd-jeju-01.jpg' | relative_url }}"
+       target="_blank">
+      <img
+        src="{{ '/assets/images/photos/2026-kdd-jeju-01.jpg' | relative_url }}"
+        alt="KDD 2026, Jeju"
+        loading="lazy">
+    </a>
+
+    <a href="{{ '/assets/images/photos/2026-kdd-jeju-02.jpg' | relative_url }}"
+       target="_blank">
+      <img
+        src="{{ '/assets/images/photos/2026-kdd-jeju-02.jpg' | relative_url }}"
+        alt="KDD 2026, Jeju"
+        loading="lazy">
+    </a>
+
+    <a href="{{ '/assets/images/photos/2026-kdd-jeju-03.jpg' | relative_url }}"
+       target="_blank">
+      <img
+        src="{{ '/assets/images/photos/2026-kdd-jeju-03.jpg' | relative_url }}"
+        alt="KDD 2026, Jeju"
+        loading="lazy">
+    </a>
+
+  </div>
+
+</div>
