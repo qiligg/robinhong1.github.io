@@ -74,26 +74,30 @@ author_profile: true
 
   <div class="photo-grid">
 
-    <a href="{{ '/assets/images/photos/2026-kdd-jeju-01.jpg' | relative_url }}"
-       target="_blank">
+    <a href="{{ '/assets/images/photos/2026-kdd-jeju-01.jpg' | relative_url }}" target="_blank">
       <img
         src="{{ '/assets/images/photos/2026-kdd-jeju-01.jpg' | relative_url }}"
         alt="KDD 2026, Jeju"
         loading="lazy">
     </a>
 
-    <a href="{{ '/assets/images/photos/2026-kdd-jeju-02.jpg' | relative_url }}"
-       target="_blank">
+    <a href="{{ '/assets/images/photos/2026-kdd-jeju-02.jpg' | relative_url }}" target="_blank">
       <img
         src="{{ '/assets/images/photos/2026-kdd-jeju-02.jpg' | relative_url }}"
         alt="KDD 2026, Jeju"
         loading="lazy">
     </a>
 
-    <a href="{{ '/assets/images/photos/2026-kdd-jeju-03.jpg' | relative_url }}"
-       target="_blank">
+    <a href="{{ '/assets/images/photos/2026-kdd-jeju-03.jpg' | relative_url }}" target="_blank">
       <img
         src="{{ '/assets/images/photos/2026-kdd-jeju-03.jpg' | relative_url }}"
+        alt="KDD 2026, Jeju"
+        loading="lazy">
+    </a>
+
+    <a href="{{ '/assets/images/photos/2026-kdd-jeju-04.jpg' | relative_url }}" target="_blank">
+      <img
+        src="{{ '/assets/images/photos/2026-kdd-jeju-04.jpg' | relative_url }}"
         alt="KDD 2026, Jeju"
         loading="lazy">
     </a>
