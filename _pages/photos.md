@@ -102,6 +102,20 @@ author_profile: true
         loading="lazy">
     </a>
 
+    <a href="{{ '/assets/images/photos/2026-kdd-jeju-05.jpg' | relative_url }}" target="_blank">
+      <img
+        src="{{ '/assets/images/photos/2026-kdd-jeju-05.jpg' | relative_url }}"
+        alt="KDD 2026, Jeju"
+        loading="lazy">
+    </a>
+
+    <a href="{{ '/assets/images/photos/2026-kdd-jeju-06.jpg' | relative_url }}" target="_blank">
+      <img
+        src="{{ '/assets/images/photos/2026-kdd-jeju-06.jpg' | relative_url }}"
+        alt="KDD 2026, Jeju"
+        loading="lazy">
+    </a>
+
   </div>
 
 </div>
