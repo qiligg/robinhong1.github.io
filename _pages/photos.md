@@ -67,10 +67,10 @@ author_profile: true
 
 <div class="photo-event">
 
-  <div class="photo-meta">
-    <div class="photo-date">August 2026</div>
-    <div class="photo-location">📍 Jeju, Korea</div>
-  </div>
+ <div class="photo-meta">
+   <div class="photo-date">Aug. 2026, KDD 2026</div>
+   <div class="photo-location">📍 Jeju, Korea</div>
+ </div>
 
   <div class="photo-grid">
 
